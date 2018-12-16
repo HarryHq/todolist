@@ -1,4 +1,12 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## 关于这个应用
+
+用到的技术
+
+* "antd": "^3.11.2",
+* "axios": "^0.18.0",
+* "redux": "^4.0.1",
+* "redux-thunk": "^2.3.0"
 
 ## Available Scripts
 
